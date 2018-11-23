@@ -2,7 +2,6 @@ import random
 
 getJoke = open("Jokes.txt", "r")
 jokelist = getJoke.readlines()
-JokeNumber = None
 
 
 def getJoke():
